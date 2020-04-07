@@ -266,6 +266,10 @@ STM32F4开发视频教程：
 
 https://www.bilibili.com/video/BV1N4411e7xH?from=search&seid=2905368956175283744
 
+C# 桌面应用程序及网络应用程序开发教程：
+
+https://www.bilibili.com/video/BV1FJ411W7e5?from=search&seid=5840304969164730355
+
 SolidWorks 视频教程：
 
 https://www.bilibili.com/video/BV1nW411Y7W7?from=search&seid=15562106580434651598
