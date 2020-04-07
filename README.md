@@ -122,7 +122,15 @@ TTL转USB模块：
 
 https://detail.tmall.com/item.htm?id=528155897252&spm=a1z09.2.0.0.20002e8dnWHItN&_u=835f4g636845
 
-USB-HUB模块（1转4）：
+TTL转RS232模块：
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.57.415540abXK6gh9&id=14475256603&ns=1&abbucket=14
+
+TTL转RS485模块：
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.77.4db240faAKKaWo&id=567963648418&ns=1&abbucket=14
+
+USB-HUB模块（1拖4）：
 
 https://item.taobao.com/item.htm?spm=a230r.1.14.159.1c88545eT9VCje&id=18203496911&ns=1&abbucket=14#detail
 
