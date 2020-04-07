@@ -1,6 +1,6 @@
 ## 常用硬件购买途径
 
-###常用开发板与主控芯片（非带货）：
+### 常用开发板与主控芯片（非带货）：
 
 Arduino Mega 2560：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4c4e2e8ds9Dgjb&id=523249548085&_u=835f4g637b39
 
@@ -18,13 +18,13 @@ STM32下载器：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.20002e8dnWHItN
 
 国产STC现代化8051兼容单片机选型主页：http://www.stcmcu.com/index.htm
 
-###常用扩展版Shield（非带货）：
+### 常用扩展版Shield（非带货）：
 
 Arduino Sensor Shield：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.20002e8dnWHItN&id=561952411579&_u=835f4g631468
 
-###常用模块与硬件（非带货）：
+### 常用模块与硬件（非带货）：
 
-####电源类：
+#### 电源类：
 
 大电流DC-DC调压模块（XL4005完全代替进口芯片）：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4c4e2e8ds9Dgjb&id=548199096291&_u=835f4g631653
 
@@ -34,7 +34,7 @@ Arduino Sensor Shield：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.20002e8
 
 18650电池盒（主流供电方案，常用）：https://detail.tmall.com/item.htm?id=533054527075&spm=a1z09.2.0.0.20002e8dnWHItN&_u=835f4g63431c
 
-####驱动类：
+#### 驱动类：
 
 小电流直流电机控制（TB6612FNG）：https://detail.tmall.com/item.htm?id=41281331820&spm=a1z09.2.0.0.4c4e2e8ds9Dgjb&_u=835f4g639e62
 
@@ -48,7 +48,7 @@ Arduino Sensor Shield：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.20002e8
 
 16路串口舵机扩展版：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4c4e2e8ds9Dgjb&id=521026734279&_u=835f4g63126b
 
-####作用器类：
+#### 作用器类：
 
 42步进电机：https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w5003-22311890017.8.24f44e1cvmo1Ba&id=527783214085&scene=taobao_shop
 
@@ -58,7 +58,7 @@ Arduino Sensor Shield：https://item.taobao.com/item.htm?spm=a1z09.2.0.0.20002e8
 
 数字舵机系列（按需选型）：https://shop117092746.taobao.com/category-1353576247.htm?spm=2013.1.0.0.374c615aPAzVwG&search=y&catName=%B6%E6%BB%FA%CF%B5%C1%D0 或 https://shop112804780.taobao.com/category-1025923207.htm?spm=a1z10.1-c-s.w5002-17909957365.5.61888d69xefv2Y&search=y&catName=%B6%E6%BB%FA%CF%B5%C1%D0
 
-####通讯类：
+#### 通讯类：
 
 无线串口/LoRA串口（按需选型）：https://zeyaotech.taobao.com/p/rd618921.htm?spm=a1z10.1-c-s.w16501251-15265879661.9.50c13e6eIxu7v3&scene=taobao_shop
 
@@ -68,7 +68,7 @@ TTL转USB模块：https://detail.tmall.com/item.htm?id=528155897252&spm=a1z09.2.
 
 USB-HUB模块（1转4）：https://item.taobao.com/item.htm?spm=a230r.1.14.159.1c88545eT9VCje&id=18203496911&ns=1&abbucket=14#detail
 
-####传感器类：
+#### 传感器类：
 
 不一一列出，**某宝搜索“Arduino 模块 xxx功能”**，以下为实测推荐商家：
 
@@ -80,7 +80,7 @@ Arduino系列各种模块（**工业项目中尽量避免使用**）：https://z
 
 高级传感器（生物传感器或其它，按需选型）：https://kvdz.taobao.com/shop/view_shop.htm?spm=a230r.1.14.20.1b494af0RqfRvL&user_number_id=645606161
 
-####PCB加工、机械结构、人机交互与零部件类：
+#### PCB加工、机械结构、人机交互与零部件类：
 
 不一一列出，以下为实测推荐商家：
 
@@ -100,20 +100,20 @@ PCB加工：https://shop391921903.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.
 
 USART-HMI串口屏人机界面（按需选型）：https://shop34244628.taobao.com/?spm=a230r.7195193.1997079397.2.636a12fcUB4uJr
 
-####常用标准电子原件：
+#### 常用标准电子原件：
 
 推荐1（按需选型）：https://telesky.tmall.com/index.htm?spm=a220o.1000855.w5002-16538328895.2.6ad9604fVxaJ67
 
 推荐2（按需选型）：https://dzyj.taobao.com/index.htm?spm=a1z10.1-c-s.w5002-14787471803.216.6e16512886TKER
 
-##常用软件与在线工具
+## 常用软件与在线工具
 
-####上位机程序设计：
+#### 上位机程序设计：
 
 **推荐使用 .Net 技术栈：使用 C# .Net 作为组内首选开发平台**
 **Microsoft Visual Studio 2019**
 
-####嵌入式程序设计：
+#### 嵌入式程序设计：
 
 **Keil C51**（开发STC系列现代化8051单片机）
 
@@ -121,7 +121,7 @@ USART-HMI串口屏人机界面（按需选型）：https://shop34244628.taobao.c
 
 **Arduino IDE**（开发Arduino开发板）：https://www.arduino.cc/en/Main/Software
 
-####原理图与PCB绘制：
+#### 原理图与PCB绘制：
 
 **Altium Designer 20**
 *AD20常用原件封装库下载：链接: https://pan.baidu.com/s/1mOkLrWehvdQBCEPL0lloRg 提取码: 8bch
@@ -130,7 +130,7 @@ USART-HMI串口屏人机界面（按需选型）：https://shop34244628.taobao.c
 
 **立创在线EAD工具**：https://lceda.cn/editor
 
-####机械结构设计仿真：
+#### 机械结构设计仿真：
 
 **SolidWorks**
 
