@@ -228,11 +228,11 @@ https://shop34244628.taobao.com/?spm=a230r.7195193.1997079397.2.636a12fcUB4uJr
 
 #### 常用标准电子原件：
 
-推荐1（按需选型）：
+推荐1 telesky旗舰店（按需选型）：
 
 https://telesky.tmall.com/index.htm?spm=a220o.1000855.w5002-16538328895.2.6ad9604fVxaJ67
 
-推荐2（按需选型）：
+推荐2 育松电子（按需选型）：
 
 https://dzyj.taobao.com/index.htm?spm=a1z10.1-c-s.w5002-14787471803.216.6e16512886TKER
 
