@@ -310,6 +310,10 @@ STM32F4开发视频教程：
 
 https://www.bilibili.com/video/BV1N4411e7xH?from=search&seid=2905368956175283744
 
+一周搞定模拟电路视频教程（模电入门基础）：
+
+https://www.bilibili.com/video/BV1zb411W7jv?from=search&seid=8774606301804190464
+
 C# 桌面应用程序及网络应用程序开发教程：
 
 https://www.bilibili.com/video/BV1FJ411W7e5?from=search&seid=5840304969164730355
