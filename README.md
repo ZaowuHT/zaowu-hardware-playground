@@ -48,7 +48,7 @@ https://item.taobao.com/item.htm?spm=a1z09.2.0.0.20002e8dnWHItN&id=561952411579&
 
 https://item.taobao.com/item.htm?spm=a1z09.2.0.0.4c4e2e8ds9Dgjb&id=548199096291&_u=835f4g631653
 
-高C功率锂电池/充电器（按需选型）：
+大电流动力锂电池/充电器（按需选型）：
 
 https://shop104230572.taobao.com/category-782993059.htm?spm=a1z10.1-c.w5001-13256882288.4.6c917dc6FNGBDf&search=y&catName=%A1%F3+%B5%E7%B3%D8%2F%B3%E4%B5%E7%C6%F7%26larr%3B&scene=taobao_shop
 
