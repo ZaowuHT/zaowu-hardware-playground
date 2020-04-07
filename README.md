@@ -162,6 +162,22 @@ https://robotcontrol.taobao.com/category-983152077.htm?spm=2013.1.w20130807-2261
 
 https://kvdz.taobao.com/shop/view_shop.htm?spm=a230r.1.14.20.1b494af0RqfRvL&user_number_id=645606161
 
+测速用高精度旋转编码器（按需选型）：
+
+https://shop163158433.taobao.com/category-1342313505.htm?spm=2013.1.0.0.70549ac1icadcm&search=y&catName=%B1%E0%C2%EB%C6%F7
+
+及
+
+https://veha.tmall.com/category-1518913257.htm?spm=a1z10.1-b-s.w5002-22610659040.6.799f134b1mhIQy&search=y&catName=%B1%E0%C2%EB%C6%F7
+
+数字/模拟电位器、波段开关（按需选型）：
+
+https://ysxsm.tmall.com/category-1043339762.htm?spm=a220o.1000855.w5002-21961748790.6.ab1168b3x7NL06&search=y&catName=%BF%C9%B5%F7%2F%BE%AB%C3%DC+%B5%E7%CE%BB%C6%F7
+
+及
+
+https://huanghaina.taobao.com/category-697101574.htm?spm=2013.1.w5002-22175603416.4.3541768fZH5jOz&search=y&catName=%B2%A8%B6%CE%BF%AA%B9%D8%CF%B5%C1%D0
+
 #### PCB加工、机械结构、人机交互与零部件类：
 
 不一一列出，以下为实测推荐商家：
