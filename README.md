@@ -166,7 +166,7 @@ https://kvdz.taobao.com/shop/view_shop.htm?spm=a230r.1.14.20.1b494af0RqfRvL&user
 
 不一一列出，以下为实测推荐商家：
 
-PCB加工：
+PCB加工打样：
 
 https://shop391921903.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=3024900176
 
@@ -178,6 +178,21 @@ https://jimuwu.tmall.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_
 
 https://shop271327537.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=2944214068
 
+铝型材及连接件定制加工（按需定制）：
+
+https://luhulvxingcai.tmall.com/shop/view_shop.htm?spm=a1z0k.6846577.1130980037.d4919818.75e537deg1zNG5&shop_id=72830966
+
+光滑钢管定制加工（按需定制）：
+
+https://zechanglong.tmall.com/shop/view_shop.htm?spm=a230r.1.14.11.74d37033oYkUAx&user_number_id=1892304230
+
+碳纤维轴/轮轴定制加工（按需定制）：
+
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.29ad2e8dt6PMra&id=14127206605&_u=835f4g63fee0
+
+角码：
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.29ad2e8dt6PMra&id=574360298094&_u=835f4g6331bf
+
 紧固件（螺柱、螺丝、螺栓、螺母、铜柱，按需选型）：
 
 https://shop298131511.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=2384114436 
@@ -186,9 +201,13 @@ https://shop298131511.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHI
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=748895996
 
-传动机构（丝杆、同步带、光轴等）：
+传动机构与3D打印机配件（丝杆、同步带、光轴等）：
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=2786671363
+
+或
+
+https://shop382512490.taobao.com/index.htm?spm=2013.1.w5002-15491564551.2.6d472cfcVUAjCI
 
 运动机构（胶轮、麦克纳姆轮等）：
 
