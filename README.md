@@ -276,41 +276,41 @@ https://dzyj.taobao.com/index.htm?spm=a1z10.1-c-s.w5002-14787471803.216.6e165128
 
 **推荐使用 .Net 技术栈：使用 C# .Net 作为组内首选开发平台**
 
-**Microsoft Visual Studio 2019**
+**- Microsoft Visual Studio 2019**
 
 #### 嵌入式程序设计：
 
-**Keil C51**（开发STC系列现代化8051单片机）
+**- Keil C51**（开发STC系列现代化8051单片机）
 
-**Keil MDK**（开发STM32系列高性能ARM芯片）
+**- Keil MDK**（开发STM32系列高性能ARM芯片）
 
-**Arduino IDE**（开发Arduino开发板）：
+**- Arduino IDE**（开发Arduino开发板）：
 
 https://www.arduino.cc/en/Main/Software
 
 #### 原理图与PCB绘制：
 
-**Altium Designer 20**
+**- Altium Designer 20**
 
 *AD20常用原件封装库下载：
 
 链接: https://pan.baidu.com/s/1mOkLrWehvdQBCEPL0lloRg 提取码: 8bch
 
-**Proteus 8 Professional**
+**- Proteus 8 Professional**
 
-**立创在线EAD工具**：
+**- 立创在线EAD工具**：
 
 https://lceda.cn/editor
 
 #### 机械结构设计仿真：
 
-**SolidWorks**
+**- SolidWorks**
 
-**OnShape在线CAD工具**：
+**- OnShape在线CAD工具**：
 
 https://www.onshape.com/
 
-**GrabCAD三维模型零件库**：
+**- GrabCAD三维模型零件库**：
 
 https://grabcad.com/library
 
