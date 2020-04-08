@@ -236,7 +236,7 @@ https://shop298131511.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHI
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=748895996
 
-传动机构与3D打印机配件（丝杆、同步带、光轴等）：
+传动机构、微型CNC机床与3D打印机配件（丝杆、同步带、光轴等）：
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=2786671363
 
@@ -244,7 +244,7 @@ https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_
 
 https://shop382512490.taobao.com/index.htm?spm=2013.1.w5002-15491564551.2.6d472cfcVUAjCI
 
-运动机构（胶轮、麦克纳姆轮等）：
+运动机构（胶轮、麦克纳姆轮等）、机器人底盘：
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=723377223
 
