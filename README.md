@@ -118,7 +118,7 @@ https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w5003-22311890017.8.24f44e1cvmo
 
 https://detail.tmall.com/item.htm?id=41303683115&spm=a1z09.2.0.0.4c4e2e8ds9Dgjb&_u=835f4g6378a9
 
-- 直流减速电机、直流蜗杆电机、超微型减速电机、行星减速电机系列（按需选型）：
+- 编码器电机、直流减速电机、直流蜗杆电机、超微型减速电机、行星减速电机系列（按需选型）：
 
 https://shop100168240.taobao.com/search.htm?spm=a1z10.1-c-s.0.0.5dc9396f12h4pD&search=y
 
@@ -176,6 +176,10 @@ https://bstmcu.taobao.com/category-1413406412.htm?spm=a1z10.1-c-s.0.0.289e337aKF
 
 https://fyst.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.146a2e8dl9DMMv&user_number_id=2183383035
 
+- 夏普工业级激光、红外、超声波距离传感器系列（按需选型）：
+
+https://opto-sensor.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.67002e8dwPqXdZ&user_number_id=1724899970
+
 - 高级传感器（姿态、陀螺仪等，按需选型）：
 
 https://robotcontrol.taobao.com/category-1316992140.htm?spm=2013.1.w20130807-22611640890.8.2c946bd61DIMiK&search=y&catName=%CA%FD%D7%D6%D7%CB%CC%AC%D2%C7&scene=taobao_shop#bd 
@@ -187,6 +191,10 @@ https://robotcontrol.taobao.com/category-983152077.htm?spm=2013.1.w20130807-2261
 - 高级传感器（生物传感器或其它，按需选型）：
 
 https://kvdz.taobao.com/shop/view_shop.htm?spm=a230r.1.14.20.1b494af0RqfRvL&user_number_id=645606161
+
+- 高级传感器（GPS、GPRS模块或其它，按需选型）：
+
+https://ilovemcu.taobao.com/category-1128096972.htm?spm=2013.1.0.0.25b26b3dy6JReN&search=y&catName=%B4%AB%B8%D0%C6%F7%26amp%3B%C4%A3%BF%E9
 
 - 测速用高精度旋转编码器（按需选型）：
 
@@ -212,13 +220,17 @@ https://huanghaina.taobao.com/category-697101574.htm?spm=2013.1.w5002-2217560341
 
 https://shop391921903.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=3024900176
 
-- PCB覆铜基板、洞洞板等通用板件、线材：
+- PCB覆铜基板、洞洞板、面包板等通用板件、线材：
 
 https://shixun.tmall.com/category-1039892388.htm?spm=a220o.1000855.0.0.42c26ecdDpbqoQ&search=y&catName=%B0%E5%B2%C4%7C%CF%DF%B2%C4
 
 或
 
 https://xintaiwei.taobao.com/category-524047590.htm?spm=a1z10.3-c-s.0.0.8625546etMn4iB&search=y&catName=%C3%E6%B0%FC%B0%E5+%CD%F2%D3%C3%B0%E5+%B8%B2%CD%AD%B0%E5
+
+- PCB热转印纸：
+
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dwPqXdZ&id=524297043314&_u=835f4g636e14
 
 - 电线缠绕管（按需选型）：
 
@@ -268,6 +280,10 @@ https://shop298131511.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHI
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=748895996
 
+或
+
+https://shop212895250.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.67002e8dwPqXdZ&user_number_id=3285725669
+
 - 传动机构、微型CNC机床与3D打印机配件（丝杆、同步带、光轴等）：
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=2786671363
@@ -280,9 +296,15 @@ https://shop382512490.taobao.com/index.htm?spm=2013.1.w5002-15491564551.2.6d472c
 
 https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dqXfwrE&id=536169777223&_u=835f4g63bd60
 
-- 运动机构（胶轮、麦克纳姆轮等）、机器人底盘：
+- 运动机构（联轴器、胶轮、麦克纳姆轮等）、机器人底盘：
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=723377223
+
+- 重型、轻型万向轮（按需选型）：
+
+https://shop62450516.taobao.com/?spm=2013.1.1000126.3.291a6881ZnkJgB
+
+
 
 - 按钮/指示灯（按需选型）：
 
@@ -296,7 +318,7 @@ https://shop560252793.taobao.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.398447
 
 https://shop34244628.taobao.com/?spm=a230r.7195193.1997079397.2.636a12fcUB4uJr
 
-#### 常用标准电子原件（各类连接器公座母座、电阻、电容、二极管、三极管、MOS管、开关、按钮、运放芯片等，各类其它模块）：
+#### 常用标准电子原件（各类电阻、电容、二极管、三极管、MOS管、开关、按钮、运放芯片等，各类其它模块）：
 
 - 推荐1 telesky旗舰店（按需选型）：
 
@@ -313,6 +335,10 @@ https://shixun.tmall.com/index.htm?spm=a1z10.5-b.w5002-17454470155.2.2f5c25e72T1
 - 推荐4 信泰微电子（按需选型）：
 
 https://xintaiwei.taobao.com/index.htm?spm=a1z10.5-c-s.w5002-16248799808.2.771d4ea1xDMIp8
+
+- 推荐5 优信电子（按需选型）：
+
+https://youxin-electronic.taobao.com/index.htm?spm=a1z10.1-c-s.w5002-21223910158.2.106f6765qaBbJI
 
 ## 常用软件与在线工具
 
