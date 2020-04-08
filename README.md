@@ -48,6 +48,10 @@ https://item.taobao.com/item.htm?spm=a1z0k.7628869.0.0.3984476etVw8wB&id=4084938
 
 https://item.taobao.com/item.htm?spm=a1z09.2.0.0.20002e8dnWHItN&id=587508184109&_u=835f4g63e2bc
 
+- 树莓派 Raspberry 4B：
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.13.4d5b28eeEWBFTT&id=608798378397&cm_id=140105335569ed55e27b&abbucket=12
+
 - 国产STC现代化8051兼容单片机选型主页：
 
 http://www.stcmcu.com/index.htm
@@ -114,9 +118,13 @@ https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w5003-22311890017.8.24f44e1cvmo
 
 https://detail.tmall.com/item.htm?id=41303683115&spm=a1z09.2.0.0.4c4e2e8ds9Dgjb&_u=835f4g6378a9
 
-- 直流减速电机、行星减速电机系列（按需选型）：
+- 直流减速电机、直流蜗杆电机、超微型减速电机、行星减速电机系列（按需选型）：
 
 https://shop100168240.taobao.com/search.htm?spm=a1z10.1-c-s.0.0.5dc9396f12h4pD&search=y
+
+及
+
+https://shop61729724.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.67002e8dqXfwrE&user_number_id=376725741
 
 - 数字舵机系列（按需选型）：
 
@@ -196,7 +204,7 @@ https://ysxsm.tmall.com/category-1043339762.htm?spm=a220o.1000855.w5002-21961748
 
 https://huanghaina.taobao.com/category-697101574.htm?spm=2013.1.w5002-22175603416.4.3541768fZH5jOz&search=y&catName=%B2%A8%B6%CE%BF%AA%B9%D8%CF%B5%C1%D0
 
-#### PCB加工、机械结构、人机交互与零部件类：
+#### PCB加工、线材、机械结构、人机交互与零部件类：
 
 不一一列出，以下为实测推荐商家：
 
@@ -211,6 +219,22 @@ https://shixun.tmall.com/category-1039892388.htm?spm=a220o.1000855.0.0.42c26ecdD
 或
 
 https://xintaiwei.taobao.com/category-524047590.htm?spm=a1z10.3-c-s.0.0.8625546etMn4iB&search=y&catName=%C3%E6%B0%FC%B0%E5+%CD%F2%D3%C3%B0%E5+%B8%B2%CD%AD%B0%E5
+
+- 电线缠绕管（按需选型）：
+
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dqXfwrE&id=542502379632&_u=835f4g63a829
+
+- 线路热缩管（按需选型）;
+
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dqXfwrE&id=573735094368&_u=835f4g637037
+
+- 端子、连接器、各类连接器线材（按需选型）：
+
+https://china-ms.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.67002e8dqXfwrE&user_number_id=74222874
+
+- 排线、导线卷（按需选型）：
+
+https://shop543539516.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.67002e8dqXfwrE&user_number_id=3252028963
 
 - 结构木板/木条定制加工（按需定制）：
 
@@ -252,6 +276,10 @@ https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_
 
 https://shop382512490.taobao.com/index.htm?spm=2013.1.w5002-15491564551.2.6d472cfcVUAjCI
 
+- 光轴定制加工（按需定制）
+
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.67002e8dqXfwrE&id=536169777223&_u=835f4g63bd60
+
 - 运动机构（胶轮、麦克纳姆轮等）、机器人底盘：
 
 https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_number_id=723377223
@@ -268,7 +296,7 @@ https://shop560252793.taobao.com/shop/view_shop.htm?spm=a1z0k.7628869.0.0.398447
 
 https://shop34244628.taobao.com/?spm=a230r.7195193.1997079397.2.636a12fcUB4uJr
 
-#### 常用标准电子原件（各类电阻、电容、二极管、三极管、MOS管等，各类其它模块）：
+#### 常用标准电子原件（各类连接器公座母座、电阻、电容、二极管、三极管、MOS管、开关、按钮、运放芯片等，各类其它模块）：
 
 - 推荐1 telesky旗舰店（按需选型）：
 
