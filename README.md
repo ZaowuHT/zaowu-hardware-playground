@@ -304,11 +304,13 @@ https://store.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.20002e8dnWHItN&user_
 
 https://shop62450516.taobao.com/?spm=2013.1.1000126.3.291a6881ZnkJgB
 
-
-
-- 按钮/指示灯（按需选型）：
+- 按钮/指示灯/主令开关/安装工具（按需选型）：
 
 https://shop117341529.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.f7282e8dsVn4Rs&user_number_id=2468162445
+
+及
+
+https://lsxgl.taobao.com/shop/view_shop.htm?spm=a1z09.2.0.0.67002e8dwPqXdZ&user_number_id=670031874
 
 - 工业按钮标识牌：
 
